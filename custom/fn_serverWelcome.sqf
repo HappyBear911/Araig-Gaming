@@ -8,7 +8,7 @@ playSound "Welcome";
 _onScreenTime = 2;
  
 _role1 = "Welcome to";
-_role1names = ["Asylumist-Gaming"];
+_role1names = ["Araig Gaming"];
 _role2 = "Owners";
 _role2names = ["M Brown","Rodney"];
 _role3 = "Community Manager";
